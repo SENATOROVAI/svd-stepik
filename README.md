@@ -1,4 +1,4 @@
-# https://stepik.org/a/246258
+#### https://SenatorovAI.com
 
 # Singular Value Decomposition (SVD) Solver Course
 
